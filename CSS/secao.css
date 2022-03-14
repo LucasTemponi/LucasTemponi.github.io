@@ -7,13 +7,6 @@
     margin: 0.5em 0;
 }
 
-.titulo{
-    justify-content:center;
-    align-items: center; 
-    opacity: 2;
-    padding: 2rem;
-}
-
 #sobre article{
     width: 50%;
     padding: 1em;
@@ -48,13 +41,7 @@
 
 .descricao{
     padding:1em;
-    width:auto;
-}
-
-.descricao h4{
-    margin:0;
-    padding:0;
-    color:grey;
+    width:aut
 }
 
 .meioMeio{
@@ -139,5 +126,4 @@ div > article:nth-child(2){
     section#formacao.secao>div{
         flex-direction: column;
     }
-
 }
